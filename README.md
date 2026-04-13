@@ -1,5 +1,6 @@
 # 面向复杂人机交互递物场景的结构化 Reward Modeling
 
+<img width="9040" height="11531" alt="Group 14" src="https://github.com/user-attachments/assets/36490574-d178-4559-aedc-f82d6665490e" />
 
 
 **当机器人在拥挤、受限、并且人会产生隐式反应的场景中向人递物时，什么样的交互行为才是真正更好的？**
