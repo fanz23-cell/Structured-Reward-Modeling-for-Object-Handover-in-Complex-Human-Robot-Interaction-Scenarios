@@ -12,6 +12,7 @@ Use this page as the single entry point for all supporting documentation.
 
 - [Structured Reward V2: Comfort/Safety + Rethinking Candidate Reranker](structured_reward_v2_cs_rethinking.md)
 - [GPT Handoff: Structured Reward V2 Current Status](gpt_handoff_structured_reward_v2_status.md)
+- [Environment Migration And Rebuild Checklist](environment_migration_and_rebuild_checklist.md)
 
 ## Schema References
 

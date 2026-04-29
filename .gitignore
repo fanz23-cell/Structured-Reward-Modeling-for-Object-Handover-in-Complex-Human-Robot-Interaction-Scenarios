@@ -2,6 +2,7 @@
 .codex/
 .conda-handover-render/
 .conda-handover-render36/
+.venv-handover-render/
 
 __pycache__/
 *.pyc
